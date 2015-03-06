@@ -1,0 +1,9 @@
+C:\Users\seeduc\Desktop\Recibos\Recibos\bin\Debug\Recibos.exe.config
+C:\Users\seeduc\Desktop\Recibos\Recibos\bin\Debug\Recibos.exe
+C:\Users\seeduc\Desktop\Recibos\Recibos\bin\Debug\Recibos.pdb
+C:\Users\seeduc\Desktop\Recibos\Recibos\obj\Debug\Recibos.csprojResolveAssemblyReference.cache
+C:\Users\seeduc\Desktop\Recibos\Recibos\obj\Debug\Recibos.Form1.resources
+C:\Users\seeduc\Desktop\Recibos\Recibos\obj\Debug\Recibos.Properties.Resources.resources
+C:\Users\seeduc\Desktop\Recibos\Recibos\obj\Debug\Recibos.csproj.GenerateResource.Cache
+C:\Users\seeduc\Desktop\Recibos\Recibos\obj\Debug\Recibos.exe
+C:\Users\seeduc\Desktop\Recibos\Recibos\obj\Debug\Recibos.pdb
